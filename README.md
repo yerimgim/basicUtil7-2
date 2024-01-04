@@ -1,24 +1,9 @@
-# vue-with-typescript
+# 7.3 Vue_Filter list
 
-## Project setup
-```
-pnpm install
-```
+Vue를 활용한 filter 화면구현
 
-### Compiles and hot-reloads for development
-```
-pnpm run serve
-```
+![Alt text](image.png)
 
-### Compiles and minifies for production
-```
-pnpm run build
-```
-
-### Lints and fixes files
-```
-pnpm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. 검색으로 실시간 상품 검색 가능
+2. 좌측 메뉴 클릭 하여 해당 회사 상품만 확인 가능
+3. mediaquery

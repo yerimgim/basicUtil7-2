@@ -1,15 +1,14 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <Navbar />
+  <FilterList />
 </template>
 
 <script>
-import Navbar from "./components/Navbar.vue";
+import FilterList from "./components/FilterList.vue";
 
 export default {
   name: "App",
   components: {
-    Navbar,
+    FilterList,
   },
 };
 </script>
